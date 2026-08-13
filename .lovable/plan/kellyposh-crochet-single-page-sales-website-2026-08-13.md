@@ -16,7 +16,7 @@ A one-page, mobile-first showcase site for Kellyposh Crochet (Minna, Nigeria) wh
 3. **Categories** — Bags, Tops, Beanies, Baby Sets as rounded image cards that scroll to the shop.
 4. **Shop** — 8 product cards: photo, name, price in Naira, star rating, and "Order on WhatsApp" button that opens wa.me with the product name and price pre-filled.
 5. **Custom Order Form** — Name, Item, Color, Size, Preferred Date. On submit it builds a formatted WhatsApp message and opens the chat. Required-field validation, no backend.
-6. **Reviews** — 3 customer reviews from Abuja with names, star ratings, soft cards.
+6. **Reviews** — 3 customer reviews, one from Abuja 2 from Minna with names, star ratings, soft cards.
 7. **Footer** — Instagram, WhatsApp, Minna location, copyright "Frontend Project 2026".
 
 ## Products
